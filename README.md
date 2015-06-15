@@ -1,2 +1,3 @@
-# reactive
-A ReactJS application for educational purposes
+# App
+
+a [Sails](http://sailsjs.org) application
